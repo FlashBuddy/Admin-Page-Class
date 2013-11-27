@@ -29,8 +29,8 @@ Simple steps:
 ##Frequently Asked Questions
 
 ####What are the requirements?
- *Requires at least WordPerss version  3
- *PHP 5.2 and up.
+ * Requires at least WordPerss version  3
+ * PHP 5.2 and up.
  
 ##Author
 Ohad Raz http://en.bainternet.info 
@@ -43,19 +43,19 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
 
 ##Changelog
 ###1.2.8
-   *Fixed tab cookie extra backslash issue.
+   * Fixed tab cookie extra backslash issue.
 
 ###1.2.7
-   *Fixed #36.
-   *Fixed #37.
+   * Fixed #36.
+   * Fixed #37.
    * MP6 css hack Fixed.
 
 ###1.2.6
-   *Better Google Fonts Hanlding (now calls the actuall api)
+   * Better Google Fonts Handling (now calls the actual api)
 
 ###1.2.5
-   *Fix references for the class for PHP 5.4 compatibility.
-   *Fixed google fonts not loading.
+   * Fix references for the class for PHP 5.4 compatibility.
+   * Fixed Google fonts not loading.
 
 ###1.2.4
    * Fixed color picker not loading
@@ -93,7 +93,7 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
 ###1.1.7
    * Fixed issue #19 
    * Fixed issue #20
-   * Updated demo plugin with checkboxes in repater and conditional blocks.
+   * Updated demo plugin with checkboxes in repeater and conditional blocks.
    * Replaced iphone-style-checkboxes with my own [FancyCheckbox] (https://github.com/bainternet/FancyCheckbox) script.
 
 
@@ -132,7 +132,7 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
    * Added Iphone styled checkboxes to posts, taxonomies, roles checkbox list fields.
    * fixed delete image from conditional block, props to @brasofilo issue #17
    * Fixed Typo in mo file. issue #16 
-   * Added Spanish and Portuguese translations once angain thanks to @brasofilo issue #16
+   * Added Spanish and Portuguese translations once again thanks to @brasofilo issue #16
 
 ###1.1.1
    * Fixed issue #15
@@ -169,11 +169,11 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
    * Added missing plupload files and added a plupload field to demo plugin.
 
 ##1.0.0
-   * has_fields now checks in repater and conditional fields.
+   * has_fields now checks in repeater and conditional fields.
 
 ###0.9.9
    * Fixed Typo field.
-   * added google fonts and font weights.
+   * added Google fonts and font weights.
 
 ###0.9.8
    * added hidden field to skip fields
@@ -182,8 +182,8 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
 ###0.9.7
    * added plupload field.
    * Fixed color picker on typo field when no other color field is present.
-   * Fixed image and typo fields mising description.
-   * Fixed image field on repater and conditional blocks when no other image field is present. issue #5
+   * Fixed image and typo fields missing description.
+   * Fixed image field on repeater and conditional blocks when no other image field is present. issue #5
 
 ###0.9.6
    * added filters and hooks
@@ -195,8 +195,8 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
       * `admin_page_class_import_export_tab` action hook
       * `admin_page_class_after_page` action hook
 
-   * fixed repater id for none allowed id names
-   * fixed repater fields std value
+   * fixed repeater id for none allowed id names
+   * fixed repeater fields std value
    * fixed import export tab closure.
 
 ###0.9.5
@@ -206,7 +206,7 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
    * Fixed APC debug error.
 
 ###0.9.3
-   * Added stripslashes for repater text and textarea fields on admin panel.
+   * Added stripslashes for repeater text and textarea fields on admin panel.
 
 ###0.9.2
    * Fixed media uploader on 3.4 issue #3
@@ -221,13 +221,13 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
    * Fixed issue #2
 
 ###0.8
-   * Added import export freature, included in demo plugin.
+   * Added import export feature, included in demo plugin.
    * Added download export dump feature.
    * Added classes with filter hook to tab listing LI tags (to add images).
    * Fixed "insert to post" text on media uploader.
 
 ###0.7
-   * Added conditinal block to demo plugin.
+   * Added conditional block to demo plugin.
    * Fixed `std` selection for normal fields.
 
 ###0.6
